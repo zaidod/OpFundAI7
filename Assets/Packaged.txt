@@ -1,0 +1,9 @@
+requests
+pyautogui
+PIL
+Pillow
+pillow
+pyperclip
+pytz
+logging
+instabot
